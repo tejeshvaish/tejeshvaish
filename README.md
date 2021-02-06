@@ -1,4 +1,4 @@
-![](tejesh_vaish.gif)
+![Alt text](Tejesh_vaish.gif) / ![](Tejesh_vaish.gif)
 ### Hi there 👋 , I am Tejesh Vaish 👨‍💻
 
 <!--
