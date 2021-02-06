@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I am Tejesh Vaish 👨‍💻
 
 <!--
 **tejeshvaish/tejeshvaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img src="https://raw.githubusercontent.com/tejeshvaish/tejeshvaish/master/gifs/Hi.gif" width="30px">Hi, I am Tejesh Vaish 👨‍💻
+ 
 
 I am a Machine-learning enthusiast and Competitive Coder. I am passionate about technologies and love to learn new things.
 
@@ -26,10 +26,17 @@ I am a Machine-learning enthusiast and Competitive Coder. I am passionate about 
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | C++ | C | Verilog 
+* Bash 
 * 🖇️ Tensorflow | keras
+* numpy | Pandas
 * 🛢️  SQLite 
 * :octocat: Git | Github
 * 🌐 HTML | CSS
+
+## ⚡ Libraries and Tools
+* Jupyter Notebooks |Google Cloud Platform 
+* VS Code 
+* vim > emacs
 
 ## 📫 Get in touch
 - LinkedIn - [Tejesh Vaish](https://www.linkedin.com/in/tejesh-vaish-381bab187/)
