@@ -1,3 +1,4 @@
+![](tejesh_vaish.gif)
 ### Hi there 👋 , I am Tejesh Vaish 👨‍💻
 
 <!--
