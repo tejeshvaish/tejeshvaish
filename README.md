@@ -29,27 +29,15 @@ Here are a few things I've picked up along my learning journey.
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 
-* 🗣  Verilog 
-* Bash 
-* 🖇️ Tensorflow | keras
-* numpy | Pandas
-* 🛢️  SQLite 
-* :octocat: Git | Github
-* 🌐 HTML | CSS
+* 🗣  Verilog  * Bash * 🖇️ Tensorflow | keras * numpy | Pandas* 🛢️  SQLite * :octocat: Git | Github * 🌐 HTML | CSS
 
 ## ⚡ Libraries and Tools
 *![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-*![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-* Jupyter Notebooks |Google Cloud Platform 
-* VS Code 
-* vim > emacs
+*![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)* Jupyter Notebooks |Google Cloud Platform * VS Code * vim > emacs
 
 ## 📫 Get in touch
-- LinkedIn - [Tejesh Vaish](https://www.linkedin.com/in/tejesh-vaish-381bab187/)
-- Facebook - [@Tejesh.vaish.6](https://www.facebook.com/Tejesh.vaish6)
-
-
- or give some ♥ on [mail](mailto:tvaish96@gmail.com) .
+- LinkedIn - [Tejesh Vaish](https://www.linkedin.com/in/tejesh-vaish-381bab187/)- Facebook - [@Tejesh.vaish.6](https://www.facebook.com/Tejesh.vaish6)
+or give some ♥ on [mail](mailto:tvaish96@gmail.com) .
 
 ### ⚙️ &nbsp;GitHub Analytics
 
