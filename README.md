@@ -51,6 +51,13 @@ Here are a few things I've picked up along my learning journey.
 
  or give some ♥ on [mail](mailto:tvaish96@gmail.com) .
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/tejeshvaish">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tejeshvaish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejeshvaish&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tejeshvaish/tejeshvaish)
