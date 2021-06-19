@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  
 
-I am a Machine-learning enthusiast and Competitive Coder. I am passionate about technologies and love to learn new things.
+I am a Machine-learning enthusiast and part time psychologist :p . I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
 
