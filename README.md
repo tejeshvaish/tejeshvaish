@@ -29,8 +29,7 @@ Here are a few things I've picked up along my learning journey.
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/tejeshvaish?tab=repositories&q=&type=&language=java)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/tejeshvaish?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/tejeshvaish?tab=repositories&q=&type=&language=javascript)
-
-🗣  Verilog  | Bash | 🖇️ Tensorflow | keras | numpy | Pandas 🛢️  SQLite | :octocat: Git | Github | 🌐 HTML | CSS
+Verilog  | Bash |  Tensorflow | keras | numpy | Pandas |  SQLite | :octocat: Git | Github | 🌐 HTML | CSS
 
 ## ⚡ Libraries and Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
