@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="Tejesh_vaish.gif" width="300"/>
+</p>
+
 <h1 align="center">Tejesh Vaish</h1>
 <p align="center">
   <b>Senior Software Engineer | AI Full Stack Developer</b><br>
-  IIT Kanpur CS '21 - Building AI-powered security infrastructure
+  IIT Kanpur CS - Building AI-powered security infrastructure
 </p>
 
 <p align="center">
